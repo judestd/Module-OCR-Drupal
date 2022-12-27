@@ -1,0 +1,5 @@
+name: Module Ocr
+description: Welcome to Ocr module
+package: Custom
+type: module
+core_version_requirement: ^9.5

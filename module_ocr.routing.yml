@@ -1,0 +1,7 @@
+module_ocr.ocr:
+  path: '/parse-image'
+  defaults:
+    _title: 'Parse image to text'
+    _form: '\Drupal\module_ocr\Form\ParseImageForm'
+  requirements:
+    _permission: 'access content'
